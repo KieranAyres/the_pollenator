@@ -1,0 +1,24 @@
+GEM
+  specs:
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bigdecimal (3.1.8)
+    hash_miner (1.1.1)
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.6)
+    multi_xml (0.7.1)
+      bigdecimal (~> 3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hash_miner (~> 1.1, >= 1.1.1)!
+  httparty (~> 0.13.7)!
+
+BUNDLED WITH
+   2.5.3
